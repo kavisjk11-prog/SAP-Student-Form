@@ -1,0 +1,11 @@
+@EndUserText: {
+  label: 'Service Definition for ZZSTC_STUDENT_REG_2689'
+}
+@ObjectModel: {
+  leadingEntity: {
+    name: 'ZZSTC_STUDENT_REG_2689'
+  }
+}
+define service ZZSTUI_STUDENT_REG_2_O4689 provider contracts odata_v4_ui {
+  expose ZZSTC_STUDENT_REG_2689;
+}
